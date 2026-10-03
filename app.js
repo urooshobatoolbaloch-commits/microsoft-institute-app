@@ -2,7 +2,7 @@
 // CONFIGURATION - EDIT THESE VALUES TO UPDATE
 // ==========================================
 // 1. n8n Webhook URL: Paste your live n8n webhook URL here (e.g. https://your-n8n.com/webhook/trial-booking)
-const WEBHOOK_URL = "http://localhost:5678/webhook/trial-booking";
+const WEBHOOK_URL = "https://wiley-broader-tell-chassis.trycloudflare.com/webhook/trial-booking";
 
 // 2. WhatsApp Number: Format without '+' or dashes, with country code (e.g. 923004879545)
 const WHATSAPP_NUMBER = "923004879545";
